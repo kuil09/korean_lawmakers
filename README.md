@@ -7,7 +7,7 @@
 | 박수민      | 강남구 을         |                                                              |
 | 서명옥      | 강남구 갑         |                                                              |
 | 배현진      | 송파구 을         | [참석](https://www.news1.kr/politics/general-politics/5627006) |
-| 박정훈      | 송파구 갑         |                                                              |
+| 박정훈      | 송파구 갑         | [반대](https://www.imaeil.com/page/view/2024121117115251743)   |
 | 김재섭      | 도봉구 갑         | [찬성](https://www.khan.co.kr/article/202412111317001)         |
 | 조정훈      | 마포구 갑         |                                                              |
 | 권영세      | 용산구           |                                                              |
