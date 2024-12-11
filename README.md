@@ -136,13 +136,13 @@
 | 강선영      |                                                      |
 | 김건        |                                                      |
 | 김민전      |                                                      |
-| 김소희      |                                                      |
+| 김소희      | [참석](https://www.joongang.co.kr/article/25299165)                                               |
 | 김위상      |                                                      |
 | 김장겸      |                                                      |
 | 박준태      |                                                      |
 | 박충권      |                                                      |
 | 안상훈      |                                                      |
-| 유용원      | [참석](https://www.hankyung.com/article/202412119361i)                                               |
+| 유용원      | [참석](https://www.hankyung.com/article/202412119361i) |
 | 진종오      | [반대](https://www.khan.co.kr/article/202412072040001) |
 | 최보윤      |                                                      |
 | 최수진      |                                                      |
